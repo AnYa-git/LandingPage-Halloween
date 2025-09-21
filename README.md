@@ -11,13 +11,13 @@ L’objectif principal était de **pratiquer le code** et de renforcer mes comp�
 
 ## 🚀 Live Demo
 
-👉 [Voir la page en ligne](https://anya-git.github.io/halloween/)
+👉 [Voir la page en ligne](https://anya-git.github.io/LandingPage-Halloween/)
 
 ---
 
 ## 📂 Repository
 
-👉 [Accéder au repo GitHub](https://github.com/AnYa-git/halloween)
+👉 [Accéder au repo GitHub](https://github.com/AnYa-git/LandingPage-Halloween)
 
 ---
 
